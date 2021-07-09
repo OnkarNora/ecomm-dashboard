@@ -33,7 +33,7 @@ function Header() {
                         <NavDropdown.Item onClick={logout} >Logout</NavDropdown.Item>
                         <NavDropdown.Item>Profile</NavDropdown.Item>
                     </NavDropdown>
-                </Nav>:null}
+                </Nav>:null} 
             </Navbar>
         </div>
     )
